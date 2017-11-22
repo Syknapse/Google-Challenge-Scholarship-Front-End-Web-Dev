@@ -1,9 +1,15 @@
 You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
   * What new skills have you learned?
+        I have found both the tree model explanations and the excercise of going from mockup to html to be most useful
+
   * What has been easy?
+        As I have already done html and css, this all has been easy so far
+
   * What has been difficult?
+        Nothing. 
+
   * How have you used the problem solving strategies from the first project to overcome challenges so far?
+        It has been pretty straight forward. 
 
 ---
 
-Your response goes here!
