@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+.card {
+    border: 1px solid #c9c5c5;
+    width: 320px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    background-color: rgba(236, 226, 236, 0.94);
+   
+    -webkit-box-shadow: 6px 8px 6px 0px rgba(156,156,156,0.52);
+    -moz-box-shadow: 6px 8px 6px 0px rgba(156,156,156,0.52);
+    box-shadow: 6px 8px 6px 0px rgba(156,156,156,0.52);
+}
+
+img {
+    width: 300px;
+    margin: auto;
+    border-radius: 5px;
+}
+
+.information {
+    width: 300px;
+    border: 1px solid #c9c5c5;
+    margin: 10px auto 0 auto;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgba(226, 217, 226, 0.8);
+}
+
+blockquote {
+    margin: 0;
+}
+
+.interesting-facts {
+    font-style: italic;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li span {
+    font-weight: bold;
+}
